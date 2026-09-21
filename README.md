@@ -1,16 +1,37 @@
-## Hi there 👋
+# Luís Muhele
 
-<!--
-**kadituxi/kadituxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer · Python · Data · C · Maker**
 
-Here are some ideas to get you started:
+I build software, explore systems, and enjoy turning ideas into working things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas
+
+```text
+Backend        → Python · FastAPI · Flask · APIs
+Data           → Data Analysis · SQL · Pandas
+Systems        → C · Linux · Networking
+Maker          → Arduino · Embedded · Electronics
+Computer Sci.  → Algorithms · Data Structures
+```
+
+### Tools
+
+**Languages**
+`Python` · `C` · `SQL`
+
+**Backend**
+`FastAPI` · `Flask` · `SQLAlchemy` · `PostgreSQL` · `Redis`
+
+**Systems & Data**
+`Linux` · `Docker` · `Pandas` · `Arduino`
+
+### Competitive Programming
+
+[Codeforces](https://codeforces.com/profile/lord2pm) · [AtCoder](https://atcoder.jp/users/kadituxi)
+
+---
+
+<p align="center">
+  <sub>Build · Learn · Understand</sub>
+</p>
+
