@@ -1,7 +1,7 @@
 # Luís Muhele
 
 <p align="left">
-  <strong>Computer Engineering Student · Software Developer · Aspiring ML Engineer</strong>
+  <strong>Computer Engineering Student · Software Developer · Backend Engineer · Aspiring ML Engineer</strong>
 </p>
 
 <p align="left">
